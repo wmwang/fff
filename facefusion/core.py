@@ -103,7 +103,7 @@ def pre_check() -> bool:
 def common_pre_check() -> bool:
 	common_modules =\
 	[
-		content_analyser,
+	#	content_analyser,
 		face_classifier,
 		face_detector,
 		face_landmarker,
